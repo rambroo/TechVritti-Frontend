@@ -1,0 +1,12 @@
+#question1{
+    height: 50px;
+    width: 50px;
+}
+.darkmode{
+    background-color: black;
+    color: white;
+}
+.lightmode{
+    background-color: white;
+    color: black;
+}
